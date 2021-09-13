@@ -1,0 +1,5 @@
+LG Chemical	KRX: 051910	Battery for Giga factory in China
+Panasonic	OTCMKTS: PCRFY	Battery for Giga factory in Nevada
+Hyundai Motor	OTCMKTS: HYMTF	Car company ( EV in 2021 )
+General Motors Company	NYSE: GM	Car company ( EV in production )
+Toyota Motor Corp	NYSE: TM	Prior biggest car company ( EV leaf )

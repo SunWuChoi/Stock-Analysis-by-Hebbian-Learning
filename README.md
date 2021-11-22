@@ -21,7 +21,7 @@ This simple python project is an approach of analyzing relationship between two 
 * Run the main.py after tinkering the code for your own needs after understanding the mechanism
 
 * Results
-** The list below is the top 30 relationships from the highest to lowest.
+   * The list below is the top 30 relationships from the highest to lowest.
 NIO	361	0.055032	0.000152  
 GLUU	2427	0.344327	0.000142  
 ROKU	601	0.078771	0.000131  

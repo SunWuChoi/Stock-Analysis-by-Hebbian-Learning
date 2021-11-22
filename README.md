@@ -4,8 +4,9 @@ Analyzing relationship between two data using Hebbian Learning concept found in 
 
 ## Description
 
-![](img/HebbianLearning.png)
-This simple python project is an approach of analyzing relationship between two data by mathematically utilizing Hebbian Learning
+This simple python project is an approach of analyzing relationship between two data by mathematically utilizing Hebbian Learning  
+![](img/HebbianLearning.png)  
+![](img/Howitworks.png)  
 
 ## Getting Started
 

@@ -1,56 +1,41 @@
 # Stock-Analysis-by-Hebbian-Learning
 
-Simple overview of use/purpose.
+Analyzing relationship between two data using Hebbian Learning concept found in Neuro Science
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This simple python project is an approach of analyzing relationship between two data by mathematically utilizing Hebbian Learning
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Using Python 3
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Get the files or clone the repo
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Run the main.py after tinkering the code for your own needs after understanding the mechanism
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+This program can be improved via using numpy and other libraries
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+SunWu Choi
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+No License
 
 ## Acknowledgments
 
